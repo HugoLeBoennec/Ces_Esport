@@ -18,17 +18,8 @@ Point Accès :
 Câblage :
 	- Ethernet categorie 5e : 201.692 m		-		46.76
 		Débit : 100 Mbits/s
-		Prix : 	0.9144 m	- 2.11 €
-				1.8288 m	- 2.36 €
-				3.048 m		- 2.53 €
-				4.8768 m	- 2.70 €
-				7.62 m		- 2.96 €
-				8.144 m		- 3.64 €
-				15.24 m		- 3.72 €
-				22.86 m		- 4.47 €
-				30.48 m		- 6.35 €
-				45.72 m		- 7.62 €
-				60.96 m		- 8.30 €
+		Prix : 0.23 € par m
+		Distance requise : 710 m
 				
 Serveur CS:GO :
 	- http://www.ebay.co.uk/bhp/computer-tower-8gb-ram
@@ -38,7 +29,7 @@ Serveur CS:GO :
 		
 Armoires électriques :
 	- Armoire 630 A
-		Prix : 340.00 €
+		Prix : 1156.00 €
 		Nombre requis : 2
 		
 Multiprises :
