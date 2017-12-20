@@ -10,7 +10,7 @@ Routeurs :
 		Nombre requis : 1
 		
 Point Accès :
-	- Aironet 3500p : https://www.cisco.com/c/en/us/products/wireless/aironet-3500p-access-point/index.html
+	- Aironet 3500e : https://www.cisco.com/c/en/us/products/wireless/aironet-3500p-access-point/index.html
 		Prix : 216.46 €
 		Norme : 208.11N
 		Nombre requis : 2
@@ -36,3 +36,8 @@ Multiprises :
 	- Bloc ménager 6 prises 2P+T 16A : https://www.manomano.fr/multiprise-215?model_id=723925&referer_id=537135&ach=d9990&achsqrt=c4a77&gclid=CjwKCAiAjuPRBRBxEiwAeQ2QPmatoYzVdeHX9GiDszELHfsP8msHMYyn7xMDdqaWhwebtMYT6_u01BoC1FQQAvD_BwE
 		Prix : 4.00 €
 		Nombre requis : 147
+		
+Goulotte Protectrice PVC :
+	- https://www.bis-electric.com/goulotte-pvc-60-x-40-mm-par-16-metres.html
+		Prix : 1.91 € par m
+		Distance requise : 700 m
